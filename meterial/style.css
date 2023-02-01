@@ -1,0 +1,18 @@
+/* Media - responsivo */
+/* Medio */
+@media only screen and (max-width: 992px) {
+    #card-container{
+        position: relative;
+        top: 0px;
+        margin-bottom: 10px;
+    }
+
+}
+
+/* mobile */
+@media only screen and (max-width: 717px) {
+    #card-container{
+        position: relative;
+        top: 0px;
+    }
+}

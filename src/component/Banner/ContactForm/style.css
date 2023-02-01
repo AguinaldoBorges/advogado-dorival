@@ -1,0 +1,25 @@
+.form-group{
+    padding: 10px;
+}
+
+#contact-form{
+background-color: var(--cor-warning-transparente);
+border-radius: 5px;
+}
+
+#contact-form h2{
+    color: var(--cor-secundaria);
+    font-size: 35px;
+    font-weight: 600;
+    /* text-shadow: #252525 1px 1px 5px; */
+}
+
+#contact-form label{
+font-weight: 600;
+}
+
+#contact-form button{
+    height: 50px;
+    width: 100%;
+    margin-top: 10px;
+}

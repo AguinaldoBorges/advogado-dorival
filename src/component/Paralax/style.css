@@ -1,0 +1,10 @@
+.parallax-background {
+  background-image: url('../../img/advogado-direita.webp');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #f2f2f291;
+  background-blend-mode: overlay;
+  min-height: 100vh;
+}

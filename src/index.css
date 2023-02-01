@@ -1,0 +1,23 @@
+:root{
+  --cor-primaria:#613D15;
+  --cor-secundaria: #f2f2f2;
+  --cor-warning:#FFC107;
+  --cor-banner:#1a0e01;
+  --cor-primaria-transparente:#613D15c1;
+  --cor-secundaria-transparente: #f2f2f2c1;
+  --cor-warning-transparente:#FFC107c1;
+  --cor-banner-transparente:#1a0e01c1;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

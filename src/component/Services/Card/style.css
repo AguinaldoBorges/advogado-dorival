@@ -1,0 +1,17 @@
+#card-container{
+
+    min-height: 300px;
+
+}
+#card-icon{
+    font-size: 50px;
+    color: #613d15;
+}
+#card-title{
+    font-size: 35px;
+    font-weight: 600;
+    color: #613d15;
+}
+#card-text{
+    color: #613d15;
+}
