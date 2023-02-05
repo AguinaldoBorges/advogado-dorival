@@ -12,10 +12,10 @@ function Footer() {
     <div class="col-md-4 text-center">
       <h5 class="text-white font-weight-bold mb-4">SERVIÇOS</h5>
       <ul class="list-unstyled">
-        <li><a href="#" class="text-white">Consultoria Jurídica</a></li>
-        <li><a href="#" class="text-white">Elaboração de Contratos</a></li>
-        <li><a href="#" class="text-white">Assessoria Jurídica</a></li>
-        <li><a href="#" class="text-white">Defesa em Processos</a></li>
+        <li><a href="#banner" class="text-white">Consultoria Jurídica</a></li>
+        <li><a href="#banner" class="text-white">Elaboração de Contratos</a></li>
+        <li><a href="#banner" class="text-white">Assessoria Jurídica</a></li>
+        <li><a href="#banner" class="text-white">Defesa em Processos</a></li>
       </ul>
     </div>
     <div class="col-md-4 text-center">
